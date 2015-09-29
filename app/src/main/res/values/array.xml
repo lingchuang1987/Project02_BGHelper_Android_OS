@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="time_chooseList">
+        <item>30 秒</item>
+        <item>1 分鐘</item>
+        <item>3 分鐘</item>
+        <item>5 分鐘</item>
+    </string-array>
+    <string-array name="count_chooseList">
+        <item>5 回合制</item>
+        <item>8 回合制</item>
+        <item>10 回合制</item>
+        <item>15 回合制</item>
+    </string-array>
+    <string-array name="shop_citylist">
+        <item>台中市</item>
+        <item>台北市</item>
+        <item>台東縣</item>
+        <item>台南市</item>
+        <item>花蓮市</item>
+        <item>花蓮縣</item>
+        <item>宜蘭縣</item>
+        <item>苗栗縣</item>
+        <item>屏東縣</item>
+        <item>桃園市</item>
+        <item>桃園縣</item>
+        <item>高雄市</item>
+        <item>基隆市</item>
+        <item>雲林縣</item>
+        <item>新北市</item>
+        <item>新竹市</item>
+        <item>新竹縣</item>
+        <item>嘉義市</item>
+        <item>嘉義縣</item>
+        <item>彰化縣</item>
+        <item>澎湖縣</item>
+    </string-array>
+    <string-array name="shop_typelist">
+        <item>桌遊綜合店</item>
+        <item>可玩桌遊場地</item>
+        <item>桌遊販賣店</item>
+        <item>卡牌主題店</item>
+        <item>桌遊親子場所</item>
+        <item>桌遊餐廳</item>
+    </string-array>
+
+    <string-array name="namelist_2ppl">
+        <item>Mr. Jack 開膛手傑克</item>
+        <item>Hanabi 花火</item>
+        <item>Jambo 醬爆市場</item>
+    </string-array>
+
+    <string-array name="typelist_2ppl">
+        <item>輕度策略/諜報/標記物放置</item>
+        <item>Party Game/抽象</item>
+        <item>重度策略/經濟/手牌管理/組合收集</item>
+    </string-array>
+    <string-array name="timelist_2ppl">
+        <item>30分鐘</item>
+        <item>少於30分鐘</item>
+        <item>45分鐘</item>
+    </string-array>
+
+    <string-array name="namelist_4ppl">
+        <item>人生履歷 CV</item>
+        <item>拉密 Rummikub</item>
+        <item>卡卡頌 Carcassonne</item>
+    </string-array>
+
+    <string-array name="typelist_4ppl">
+        <item>擲骰/手牌管理/成套收集</item>
+        <item>數字/排列組合</item>
+        <item>Party Game/板塊/拼圖</item>
+    </string-array>
+    <string-array name="timelist_4ppl">
+        <item>60分鐘</item>
+        <item>30分鐘</item>
+        <item>60分鐘</item>
+    </string-array>
+
+    <string-array name="namelist_6ppl">
+        <item>七大奇蹟 7 wonder</item>
+        <item>七大奇蹟 7 wonder</item>
+        <item>妙語說書人 Dixit</item>
+        <item>妙語說書人 Dixit</item>
+        <item>妙語說書人 Dixit</item>
+        <item>大五月花號 Key Flower</item>
+        <item>大五月花號 Key Flower</item>
+    </string-array>
+
+    <string-array name="typelist_6ppl">
+        <item>古代文明/卡片選取/資源管理</item>
+        <item>古代文明/卡片選取/資源管理</item>
+        <item>Party Game/說故事/唱歌/肢體動作/投票表決</item>
+        <item>Party Game/說故事/唱歌/肢體動作/投票表決</item>
+        <item>Party Game/說故事/唱歌/肢體動作/投票表決</item>
+        <item>航海/城市領地建造/板塊拼圖/資源與人力擺放</item>
+        <item>航海/城市領地建造/板塊拼圖/資源與人力擺放</item>
+    </string-array>
+    <string-array name="timelist_6ppl">
+        <item>30~45分鐘</item>
+        <item>30~45分鐘</item>
+        <item>少於30分鐘</item>
+        <item>少於30分鐘</item>
+        <item>少於30分鐘</item>
+        <item>120分鐘</item>
+        <item>120分鐘</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-3aa6d96f812c8262d1c2c11806997b8ac8caf2c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-da33b59397402b17469e977a814360b3dc866170.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-fa741ba306ef6803ac9aef276708d225306ee1df.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-8da4ef10177981840e6a2085fd08429afbe93747.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-4d1a84104db21545e7788f2ebbd98eeb24a1186c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-00f1cf01f625d7f0fce31c5dbda703d8cfdf5d91.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-30e1f9a9858adf810cb50787a87e7da12e234612.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-e44d5ffd325a79c5694140b59d907457b6351959.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-2f7cac12c73d165f95a1e33320a225324aa3fcaf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-6fb793d5b1a5582d362cc49b3d81a6072e434b96.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\libs\java-json.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="edad9c5de6fb8df07c535a47045956026011ffa3">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\java-json-e58a15a24407bf5f026ad8f43da38b1083b16aef.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-65991e2ae971a37775f6f5dc0e1ecab85f6e0b37.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-c750ea2aa5dcf04c4e62f1c8f4b9f469b55826d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-ce09f9dffc347dafd01acbbb53359434087ac900.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-6afd424485857a8211bdace9e90b762317cac3d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-e60725f1204ccf0d47d9af2c943688234e3632ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-90431a4958719c66d965d6ff82b798c7777af4f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-3e625ed7d450a9da9c5d649e8cfc2074e6a77918.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-2b83dad26ee199e652d014b3a2cf0a04c98c17e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-e08c8b753d70f34dc69cc167cd3284b7dd8ca5e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-881819a133cf4caa1093b1305adce2a879225c1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-8469c2eb9577e1c5c8ddd21bbe24b4184e760833.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\libs\java-json.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="edad9c5de6fb8df07c535a47045956026011ffa3">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\java-json-e58a15a24407bf5f026ad8f43da38b1083b16aef.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-98ba96bb1d9cd4a5c3626b2f6644ceb1ef03bc38.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-dd2db6994f75f743cefab2c79de2b456860b66ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-8a8550743f858f6a7a73ade325a7d7bcc9d1b53c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-f150c54631e39cdc2860d3374e1968dba901fafe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-152b8793d96de11d1b531ba1c6b428815fec0ed7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\classes-6fc6152a0feff74e962b3e7eaba2d11693ad7df4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\libs\httpcore-4.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="33fc26c02f8043ab0ede19eadc8c9885386b255c">
+        <dex dex="C:\Users\Raye\Desktop\MyStudio\MyWorks\MyProjWork_01_IntroBBG\app\build\intermediates\pre-dexed\debug\httpcore-4.1-1c099854dc309aada1882d06810e4ee8e6cafa6b.jar" />
+    </item>
+
+</items>

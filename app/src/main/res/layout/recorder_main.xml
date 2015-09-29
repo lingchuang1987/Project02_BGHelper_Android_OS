@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/basebg_record"
+    android:background="@drawable/background">
+
+    <FrameLayout
+        android:gravity="center"
+        android:layout_width="320dp"
+        android:layout_height="match_parent"
+        android:layout_alignTop="@+id/imageView"
+        android:id="@+id/frameLayout"
+        android:layout_centerHorizontal="true"
+        android:foreground="@mipmap/ic_launcher"
+        android:foregroundGravity="bottom"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_alignBottom="@+id/imageView"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView28"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:text="@string/hello_all"
+            android:layout_gravity="right|bottom"
+            android:textSize="12sp" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|top">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|top">
+
+                <ImageButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/new_play"
+                    android:src="@drawable/media_playback_play"
+                    android:padding="10dp"
+                    android:layout_gravity="left|top" />
+
+                <ImageButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/new_pause"
+                    android:src="@drawable/media_playback_pause"
+                    android:padding="10dp"
+                    android:layout_gravity="center_horizontal|top" />
+
+                <ImageButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/new_stop"
+                    android:src="@drawable/media_playback_stop"
+                    android:padding="10dp"
+                    android:layout_gravity="right|top" />
+
+            </LinearLayout>
+
+            <SeekBar
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/seekBar2"
+                android:layout_gravity="center"
+                android:padding="30dp" />
+
+            <Spinner
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/spinner"
+                android:layout_gravity="center_horizontal|bottom"
+                android:spinnerMode="dialog"
+                android:theme="@android:style/Theme.Holo" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Record New"
+                android:id="@+id/textView19"
+                android:layout_gravity="right"
+                android:textColor="@android:color/white"
+                android:textIsSelectable="false"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:id="@+id/bt_rec_newFile"
+                android:layout_gravity="right"
+                android:background="@drawable/add2" />
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+</LinearLayout>

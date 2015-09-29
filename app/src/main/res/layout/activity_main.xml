@@ -1,0 +1,297 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".MainActivity"
+    android:id="@+id/background"
+    android:focusable="false"
+    android:gravity="fill_horizontal|top"
+    android:padding="5dp">
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/imageView"
+        android:src="@drawable/background"
+        android:scaleType="centerCrop" />
+
+    <FrameLayout
+        android:gravity="center"
+        android:layout_width="320dp"
+        android:layout_height="match_parent"
+        android:layout_alignTop="@+id/imageView"
+        android:id="@+id/flayout"
+        android:layout_centerHorizontal="true"
+        android:foreground="@mipmap/ic_launcher"
+        android:foregroundGravity="bottom"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_alignBottom="@+id/imageView">
+
+        <GridLayout
+            android:gravity="center"
+            android:rowCount="6"
+            android:columnCount="4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/imageView"
+            android:layout_gravity="center_horizontal|top"
+            android:columnOrderPreserved="false"
+            android:paddingTop="10dp">
+
+            <ImageButton
+                android:scaleType="centerCrop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btn_shop"
+                android:layout_row="0"
+                android:layout_column="0"
+                android:onClick="onClick"
+                android:background="@drawable/hp_btn"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="全國店鋪"
+                android:id="@+id/textView"
+                android:layout_row="1"
+                android:layout_column="0"
+                android:layout_gravity="center_horizontal"
+                android:textSize="16sp"
+                android:textColor="@android:color/background_light"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp" />
+
+            <ImageButton
+                android:scaleType="centerCrop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btn_rank"
+                android:layout_row="0"
+                android:layout_column="1"
+                android:onClick="onClick"
+                android:background="@drawable/hp_btn"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:layout_gravity="center_horizontal" />
+
+            <ImageButton
+                android:scaleType="centerCrop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btn_ptt"
+                android:layout_column="2"
+                android:layout_row="0"
+                android:onClick="onClick"
+                android:background="@drawable/hp_btn"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="BGG排行榜"
+                android:id="@+id/textView2"
+                android:layout_row="1"
+                android:layout_column="1"
+                android:layout_gravity="center_horizontal"
+                android:textSize="16sp"
+                android:textColor="@android:color/background_light"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="PTT BG版"
+                android:id="@+id/textView3"
+                android:layout_row="1"
+                android:layout_column="2"
+                android:layout_gravity="center_horizontal"
+                android:textSize="16sp"
+                android:textColor="@android:color/background_light"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp" />
+
+            <ImageButton
+                android:scaleType="centerCrop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btn_two"
+                android:layout_column="0"
+                android:layout_row="2"
+                android:onClick="onClick"
+                android:background="@drawable/hp_btn"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2人桌遊!"
+                android:id="@+id/textView4"
+                android:layout_row="3"
+                android:layout_column="0"
+                android:layout_gravity="center_horizontal"
+                android:textSize="16sp"
+                android:textColor="@android:color/background_light"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp" />
+
+            <ImageButton
+                android:scaleType="centerCrop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btn_four"
+                android:layout_column="1"
+                android:layout_row="2"
+                android:onClick="onClick"
+                android:background="@drawable/hp_btn"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:layout_gravity="center_horizontal" />
+
+            <ImageButton
+                android:scaleType="centerCrop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btn_six"
+                android:layout_column="2"
+                android:layout_row="2"
+                android:onClick="onClick"
+                android:background="@drawable/hp_btn"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="4人桌遊!"
+                android:id="@+id/textView5"
+                android:layout_row="3"
+                android:layout_column="1"
+                android:layout_gravity="center_horizontal"
+                android:textSize="16sp"
+                android:textColor="@android:color/background_light"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="6人桌遊!"
+                android:id="@+id/textView6"
+                android:layout_row="3"
+                android:layout_column="2"
+                android:layout_gravity="center_horizontal"
+                android:textSize="16sp"
+                android:textColor="@android:color/background_light"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp" />
+
+            <ImageButton
+                android:scaleType="centerCrop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btn_dice"
+                android:layout_column="0"
+                android:layout_row="4"
+                android:onClick="onClick"
+                android:background="@drawable/hp_btn"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="骰子 小工具"
+                android:id="@+id/textView7"
+                android:layout_row="5"
+                android:layout_column="0"
+                android:layout_gravity="center_horizontal"
+                android:textSize="16sp"
+                android:textColor="@android:color/background_light"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp" />
+
+            <ImageButton
+                android:scaleType="centerCrop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btn_time"
+                android:layout_column="1"
+                android:layout_row="4"
+                android:onClick="onClick"
+                android:background="@drawable/hp_btn"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:layout_gravity="center_horizontal" />
+
+            <ImageButton
+                android:scaleType="centerCrop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btn_record"
+                android:layout_column="2"
+                android:layout_row="4"
+                android:onClick="onClick"
+                android:background="@drawable/hp_btn"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="記數/計時器"
+                android:id="@+id/textView8"
+                android:layout_row="5"
+                android:layout_column="1"
+                android:layout_gravity="center_horizontal"
+                android:textSize="16sp"
+                android:textColor="@android:color/background_light"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="音效錄放機"
+                android:id="@+id/textView9"
+                android:layout_row="5"
+                android:layout_column="2"
+                android:layout_gravity="center_horizontal"
+                android:textSize="16sp"
+                android:textColor="@android:color/background_light"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp" />
+        </GridLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView11"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:text="@string/hello_all"
+            android:layout_gravity="right|bottom"
+            android:textSize="12sp" />
+    </FrameLayout>
+
+</RelativeLayout>
